@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45695991-698e-4084-beb8-ecf3a9bed671" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/MainFrame.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/TextPanel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Toolbar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Main.java" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newTest.iml" afterPath="$PROJECT_DIR$/newTest.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="newTest.iws" />
@@ -458,6 +452,11 @@
       <created>1386128550862</created>
       <updated>1386128550862</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Swing sample code">
+      <created>1386480390964</created>
+      <updated>1386480390964</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -502,7 +501,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Added Swing sample code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Swing sample code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
